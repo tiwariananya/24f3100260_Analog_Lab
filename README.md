@@ -63,11 +63,7 @@ Performed complete system-level simulation and verification to analyze the overa
 │   ├── LTspice_Simulation
 │   └── Documentation
 │
-├── Week_5_Adder
-│   ├── LTspice_Simulation
-│   └── Documentation
-│
-└── Week_6_Top_Level_Integration
+└── Week_5_Adder
     ├── LTspice_Simulation
     └── Documentation
 ```
